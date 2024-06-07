@@ -1,7 +1,4 @@
-package com.bangvan.demologin.service;
-
-import com.bangvan.demologin.exception.ErrorCode;
-import lombok.Data;
+package com.bangvan.demologin.exception;
 
 
 public class AppException extends RuntimeException {
